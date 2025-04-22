@@ -68,7 +68,7 @@ This helped streamline the model and reduce noise in training.
 
 The confusion matrix below shows the balance between true positives, false negatives, and other classification outcomes for the best model:
 
-![Confusion Matrix](images/Best Model_performance.png)
+![Confusion Matrix](images/Best_Model_performance.png)
 
 ---
 
